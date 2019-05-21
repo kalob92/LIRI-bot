@@ -5,74 +5,18 @@ Venue: Splendour In The Grass – Tycho
 Location: Yelgun, Australia
 
 Date: 07/21/2019
+
+Source: BandsInTown
 ~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Movie Title: Captain Marvel
+Artist: iamamiwhoami
 
-Year: 2019
+Song Title: Good Worker
 
-IMDB Rating: 7.1
+Preview Link: https://api.spotify.com/v1/tracks/4ZPfMkcPdx5GV7VGVG5bSk
 
-Metascore: 64
+Album: Kin
 
-Country: USA
-
-Language: English
-
-Plot: Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.
-
-Actors: Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Movie Title: Captain Marvel
-
-Year: 2019
-
-IMDB Rating: 7.1
-
-Metascore: 64
-
-Country: USA
-
-Language: English
-
-Plot: Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.
-
-Actors: Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Movie Title: Spirited Away
-
-Year: 2001
-
-IMDB Rating: 8.6
-
-Metascore: 96
-
-Country: Japan
-
-Language: Japanese, English
-
-Plot: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
-
-Actors: Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Tycho
-
-Venue: Splendour In The Grass – Tycho
-
-Location: Yelgun, Australia
-
-Date: 07/21/2019
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: undefined
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Black Moth Super Rainbow
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Black Moth Super Rainbow
-
-
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Black Moth Super Rainbow
-
-Song Title: I Think it is Beautiful that You are 256 Colors Too
+Source: Spotify
 ~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
 Artist: Black Moth Super Rainbow
 
@@ -81,82 +25,24 @@ Song Title: I Think it is Beautiful that You are 256 Colors Too
 Preview Link: https://api.spotify.com/v1/tracks/17cKlyP8sxNg05L79g18Hg
 
 Album: Start a People
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: tycho
-
-Venue: Splendour In The Grass – Tycho
-
-Location: Yelgun, Australia
-
-Date: 07/21/2019
-
-Source: BandsInTown
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Tycho
-
-Venue: Splendour In The Grass – Tycho
-
-Location: Yelgun, Australia
-
-Date: 07/21/2019
-
-Source: BandsInTown
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Tycho
-
-Venue: Splendour In The Grass – Tycho
-
-Location: Yelgun, Australia
-
-Date: 07/21/2019
-
-Source: BandsInTown
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: taylor swift
-
-Venue: iHeartRadio KIIS FM Wango Tango
-
-Location: Carson, United States
-
-Date: 06/01/2019
-
-Source: BandsInTown
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Austra
-
-Song Title: I Love You More Than You Love Yourself
-
-Preview Link: https://api.spotify.com/v1/tracks/61qD2suoJ2zp1NQHCiQdxn
-
-Album: Future Politics
 
 Source: Spotify
 ~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Artist: Axwell /\ Ingrosso
+Movie Title: A Streetcar Named Desire
 
-Song Title: I Love You
+Year: 1951
 
-Preview Link: https://api.spotify.com/v1/tracks/2GISbjz3wIJX7S4iv1XXAy
+IMDB Rating: 8.0
 
-Album: More Than You Know
+Metascore: 96
 
-Source: Spotify
-~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
-Movie Title: Avatar
-
-Year: 2009
-
-IMDB Rating: 7.8
-
-Metascore: 83
-
-Country: UK, USA
+Country: USA
 
 Language: English, Spanish
 
-Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Plot: Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.
 
-Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+Actors: Vivien Leigh, Marlon Brando, Kim Hunter, Karl Malden
 
 Source: OMDB
 ~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
@@ -169,4 +55,50 @@ Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
 Album: The Hits--Chapter One
 
 Source: Spotify
+~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
+Artist: Austra
+
+Song Title: I Love You More Than You Love Yourself
+
+Preview Link: https://api.spotify.com/v1/tracks/61qD2suoJ2zp1NQHCiQdxn
+
+Album: Future Politics
+
+Source: Spotify
+~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
+Movie Title: Titanic
+
+Year: 1997
+
+IMDB Rating: 7.8
+
+Metascore: 75
+
+Country: USA
+
+Language: English, Swedish, Italian
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Source: OMDB
+~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
+Movie Title: Frozen
+
+Year: 2013
+
+IMDB Rating: 7.5
+
+Metascore: 74
+
+Country: USA
+
+Language: English, Norwegian
+
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+Source: OMDB
 ~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
