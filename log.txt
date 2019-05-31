@@ -102,3 +102,13 @@ Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 
 Source: OMDB
 ~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
+Artist: Elton John
+
+Song Title: Rocket Man (I Think It's Going To Be A Long, Long Time)
+
+Preview Link: https://api.spotify.com/v1/tracks/3gdewACMIVMEWVbyb8O9sY
+
+Album: Honky Chateau
+
+Source: Spotify
+~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~*%*~~~~~
